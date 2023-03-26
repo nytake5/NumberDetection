@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>image-531-160_jpg.rf.6e756ecb9fd67202c16b6d0ac4ced050.jpg</filename>
+	<path>image-531-160_jpg.rf.6e756ecb9fd67202c16b6d0ac4ced050.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number-of-bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>133</xmin>
+			<xmax>164</xmax>
+			<ymin>232</ymin>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>
